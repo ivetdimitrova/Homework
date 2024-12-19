@@ -1,0 +1,14 @@
+D:\Programming\1.C#\Моите проекти\Homework\PointTask\bin\Debug\net6.0\PointTask.exe
+D:\Programming\1.C#\Моите проекти\Homework\PointTask\bin\Debug\net6.0\PointTask.deps.json
+D:\Programming\1.C#\Моите проекти\Homework\PointTask\bin\Debug\net6.0\PointTask.runtimeconfig.json
+D:\Programming\1.C#\Моите проекти\Homework\PointTask\bin\Debug\net6.0\PointTask.dll
+D:\Programming\1.C#\Моите проекти\Homework\PointTask\bin\Debug\net6.0\PointTask.pdb
+D:\Programming\1.C#\Моите проекти\Homework\PointTask\obj\Debug\net6.0\PointTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\1.C#\Моите проекти\Homework\PointTask\obj\Debug\net6.0\PointTask.AssemblyInfoInputs.cache
+D:\Programming\1.C#\Моите проекти\Homework\PointTask\obj\Debug\net6.0\PointTask.AssemblyInfo.cs
+D:\Programming\1.C#\Моите проекти\Homework\PointTask\obj\Debug\net6.0\PointTask.csproj.CoreCompileInputs.cache
+D:\Programming\1.C#\Моите проекти\Homework\PointTask\obj\Debug\net6.0\PointTask.dll
+D:\Programming\1.C#\Моите проекти\Homework\PointTask\obj\Debug\net6.0\refint\PointTask.dll
+D:\Programming\1.C#\Моите проекти\Homework\PointTask\obj\Debug\net6.0\PointTask.pdb
+D:\Programming\1.C#\Моите проекти\Homework\PointTask\obj\Debug\net6.0\PointTask.genruntimeconfig.cache
+D:\Programming\1.C#\Моите проекти\Homework\PointTask\obj\Debug\net6.0\ref\PointTask.dll

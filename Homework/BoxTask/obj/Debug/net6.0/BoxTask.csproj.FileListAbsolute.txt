@@ -1,0 +1,14 @@
+D:\Programming\1.C#\Моите проекти\Homework\BoxTask\bin\Debug\net6.0\BoxTask.exe
+D:\Programming\1.C#\Моите проекти\Homework\BoxTask\bin\Debug\net6.0\BoxTask.deps.json
+D:\Programming\1.C#\Моите проекти\Homework\BoxTask\bin\Debug\net6.0\BoxTask.runtimeconfig.json
+D:\Programming\1.C#\Моите проекти\Homework\BoxTask\bin\Debug\net6.0\BoxTask.dll
+D:\Programming\1.C#\Моите проекти\Homework\BoxTask\bin\Debug\net6.0\BoxTask.pdb
+D:\Programming\1.C#\Моите проекти\Homework\BoxTask\obj\Debug\net6.0\BoxTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\1.C#\Моите проекти\Homework\BoxTask\obj\Debug\net6.0\BoxTask.AssemblyInfoInputs.cache
+D:\Programming\1.C#\Моите проекти\Homework\BoxTask\obj\Debug\net6.0\BoxTask.AssemblyInfo.cs
+D:\Programming\1.C#\Моите проекти\Homework\BoxTask\obj\Debug\net6.0\BoxTask.csproj.CoreCompileInputs.cache
+D:\Programming\1.C#\Моите проекти\Homework\BoxTask\obj\Debug\net6.0\BoxTask.dll
+D:\Programming\1.C#\Моите проекти\Homework\BoxTask\obj\Debug\net6.0\refint\BoxTask.dll
+D:\Programming\1.C#\Моите проекти\Homework\BoxTask\obj\Debug\net6.0\BoxTask.pdb
+D:\Programming\1.C#\Моите проекти\Homework\BoxTask\obj\Debug\net6.0\BoxTask.genruntimeconfig.cache
+D:\Programming\1.C#\Моите проекти\Homework\BoxTask\obj\Debug\net6.0\ref\BoxTask.dll
